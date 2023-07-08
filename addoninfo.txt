@@ -1,10 +1,10 @@
 "AddonInfo"
 {
-	AddonTitle		"ion's Vocalizer"
-	AddonVersion		"17.5"
-	AddonDescription	"The most complete vocalizer with nearly 800 vocalization lines featuring 13 radial menus with shared lines, 9 radial menus with character-specific lines and a radial menu for character selection/switching and going idle."
-	AddonAuthor		"ion"
-	AddonURL0		"https://steamcommunity.com/sharedfiles/filedetails/?id=698857882"
+	AddonTitle		"Satanixon's Binder"
+	AddonVersion		"1.0"
+	AddonDescription	"Use chat binds through a radial menu"
+	AddonAuthor		"StarterX4"
+	AddonURL0		""
 
 	AddonSteamAppID		550
 	AddonContent_Script	1
